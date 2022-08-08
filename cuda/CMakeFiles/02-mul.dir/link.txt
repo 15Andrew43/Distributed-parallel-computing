@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/02-mul.dir/runners/02-mul_generated_02-mul.cu.o CMakeFiles/02-mul.dir/src/02-mul_generated_KernelMul.cu.o  -o 02-mul /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl /usr/lib/x86_64-linux-gnu/librt.so libcommon_kernels.a /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl /usr/lib/x86_64-linux-gnu/librt.so 

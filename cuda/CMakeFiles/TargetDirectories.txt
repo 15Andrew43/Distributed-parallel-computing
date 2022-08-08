@@ -1,0 +1,10 @@
+/home/pd2022/pd202242/pd/task2_cuda/CMakeFiles/rebuild_cache.dir
+/home/pd2022/pd202242/pd/task2_cuda/CMakeFiles/edit_cache.dir
+/home/pd2022/pd202242/pd/task2_cuda/CMakeFiles/01-add.dir
+/home/pd2022/pd202242/pd/task2_cuda/CMakeFiles/common_kernels.dir
+/home/pd2022/pd202242/pd/task2_cuda/CMakeFiles/02-mul.dir
+/home/pd2022/pd202242/pd/task2_cuda/CMakeFiles/03-matrix-add.dir
+/home/pd2022/pd202242/pd/task2_cuda/CMakeFiles/04-matrix-vector-mul.dir
+/home/pd2022/pd202242/pd/task2_cuda/CMakeFiles/05-scalar-mul.dir
+/home/pd2022/pd202242/pd/task2_cuda/tests/CMakeFiles/rebuild_cache.dir
+/home/pd2022/pd202242/pd/task2_cuda/tests/CMakeFiles/edit_cache.dir

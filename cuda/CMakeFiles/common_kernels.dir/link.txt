@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon_kernels.a  CMakeFiles/common_kernels.dir/src/common_kernels_generated_CommonKernels.cu.o CMakeFiles/common_kernels.dir/src/common_kernels_generated_KernelMul.cu.o
+/usr/bin/ranlib libcommon_kernels.a

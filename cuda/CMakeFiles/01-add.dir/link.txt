@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/01-add.dir/runners/01-add_generated_01-add.cu.o CMakeFiles/01-add.dir/src/01-add_generated_KernelAdd.cu.o  -o 01-add /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl /usr/lib/x86_64-linux-gnu/librt.so libcommon_kernels.a /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl /usr/lib/x86_64-linux-gnu/librt.so 
